@@ -9,6 +9,17 @@ A RESTful API built with Node.js for managing a book collection. Allows users to
 * MongoDB as the database
 * Basic authentication and validation
 
+
+### Dependencies
+* "bcryptjs",
+* "express",
+* "jsonwebtoken",
+* "mongoose",
+* "multer",
+* "validator",
+
+
+
 ## API Endpoints
 
 ### Books
