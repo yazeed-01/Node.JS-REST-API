@@ -10,6 +10,8 @@ A RESTful API built with Node.js for managing a book collection. Allows users to
 * Basic authentication and validation
 
 
+
+
 ### Dependencies
 * "bcryptjs",
 * "express",
@@ -20,7 +22,6 @@ A RESTful API built with Node.js for managing a book collection. Allows users to
 
 
 
-## API Endpoints
 
 ### Books
 
